@@ -64,7 +64,7 @@ class Spell extends React.Component {
             <div class="page">
               <div class="words">{this.state.desc}</div>
             </div>
-            <a href="https://github.com/Joost-Janse/lab3.git">GitHub link</a>
+            <a href="https://github.com/Joost-Janse/CP3.git">GitHub link</a>
           </>
         );
       }
