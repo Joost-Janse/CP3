@@ -1,0 +1,31 @@
+.App {
+  
+  text-align: center;
+
+  margin-top: 20em;
+}
+
+body {
+  background-color: black;
+}
+
+.page {
+ 
+
+  background-color: white;
+  box-shadow: 0 4px 8px 0 red;
+  transition: 0.3s;
+  margin-left: 30em;
+  margin-right: 30em;
+}
+
+.words {
+  font-family: sans-serif;
+  display: flex;
+  color: black;
+}
+
+.name {
+  color: red;
+  font-family: fantasy;
+}
